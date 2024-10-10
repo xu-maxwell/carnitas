@@ -1,5 +1,5 @@
 # Carnitas: Audio Processing Library
-Carnitas is a Python package designed for the Laryngeal Tissue Engineering Lab at UCLA to process audio files and interact with cloud storage (e.g., Box). It provides utilities for working with various audio formats, performing signal processing, and automating file management tasks related to audio files.
+Carnitas is a Python package designed for the Laryngeal Tissue Engineering Lab at UCLA to process audio files and interact with cloud storage (e.g., Box). It provides utilities for working with various audio formats and automating file management tasks related to audio files.
 
 ## Features
 * Recursive Audio File Discovery: Easily find audio files of various formats (.mp3, .wav, .flac, .ogg, .aac, .m4a) in nested directories.
